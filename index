@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hynes Birmingham | Cyber-Physical Systems Engineer</title>
+    <meta charset="UTF-8">
+</head>
+
+<body style="font-family: Arial; max-width: 800px; margin: 40px; line-height: 1.6;">
+
+<h1>Hynes (Mikey) Birmingham</h1>
+
+<p>
+Biomedical Engineering student at the University of Connecticut focused on cyber-physical systems, embedded sensing, and hardware–software integration.
+</p>
+
+<p>
+Currently developing a low-cost embedded imaging platform for automated biological assay quantification using Raspberry Pi, Python, and computer vision.
+</p>
+
+<hr>
+
+<h2>Portfolio Links</h2>
+
+<ul>
+<li><a href="resume.pdf">Resume</a></li>
+<li><a href="https://linkedin.com">LinkedIn</a></li>
+<li><a href="https://github.com/hmbirmingham1-coder">GitHub</a></li>
+</ul>
+
+<hr>
+
+<h2>Core Focus Areas</h2>
+
+<ul>
+<li>Cyber-Physical Systems</li>
+<li>Embedded Systems</li>
+<li>Hardware–Software Integration</li>
+<li>Instrumentation Platforms</li>
+<li>Imaging Systems</li>
+</ul>
+
+<hr>
+
+<h2>Flagship Project</h2>
+
+<h3>Embedded Imaging & Measurement Platform</h3>
+
+<p>
+Designed and developed a portable embedded imaging system capable of automated biological measurement and analysis. System integrates hardware sensing, embedded computation, and software-based signal processing.
+</p>
+
+<hr>
+
+<p>
+Contact: hmbirmingham1-coder@github
+</p>
+
+</body>
+</html>
